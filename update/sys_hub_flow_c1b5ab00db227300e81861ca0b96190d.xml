@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"f7fae082-bb2b-4cb6-b6ac-31f977e52249.new_date","label":"1➛New Date","reference_display":"New Date","type":"glide_date","base_type":"glide_date"},{"name":"0b2eacc1-7007-47e8-a6d5-8c2caa6c5885.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"1fcea0d3-4db5-4bcb-97d4-580e2e9cfc0d.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"6f4047df-74b4-4b3f-a209-55cc962ca536.new_date","label":"1➛New Date","reference_display":"New Date","type":"glide_date","base_type":"glide_date"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-05 14:07:52</sys_created_on>
+        <sys_id>c1b5ab00db227300e81861ca0b96190d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_321115_needit_sp">80526b80dbee3300e81861ca0b961980</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">80526b80dbee3300e81861ca0b961980</sys_scope>
+        <sys_update_name>sys_hub_flow_c1b5ab00db227300e81861ca0b96190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 14:21:42</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1b5ab00db227300e81861ca0b96190d"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c1b5ab00db227300e81861ca0b96190d"/>
+</record_update>
